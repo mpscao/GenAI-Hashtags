@@ -5,3 +5,4 @@ Each "player" will have multiple rounds to generate a hashtag associated with an
 
 For players in the llamallm_effect_last_neighbor.py file, they will be also asked to generate 5 effects they believe will be a result of the event described in the file. 
 
+Attached with the llama folder contains 3 trials of the hashtag generation where players are asked for effects and 3 trials where players are not asked for effects. The coordination plot and color graph of chosen hashtags are shown for each trial as well.
